@@ -1,0 +1,15 @@
+C:\Users\Admin\LT\C#\Cau2_OOP_TinhLuongNhanVien\Cau2_OOP_TinhLuongNhanVien\bin\Debug\net10.0\Cau2_OOP_TinhLuongNhanVien.exe
+C:\Users\Admin\LT\C#\Cau2_OOP_TinhLuongNhanVien\Cau2_OOP_TinhLuongNhanVien\bin\Debug\net10.0\Cau2_OOP_TinhLuongNhanVien.deps.json
+C:\Users\Admin\LT\C#\Cau2_OOP_TinhLuongNhanVien\Cau2_OOP_TinhLuongNhanVien\bin\Debug\net10.0\Cau2_OOP_TinhLuongNhanVien.runtimeconfig.json
+C:\Users\Admin\LT\C#\Cau2_OOP_TinhLuongNhanVien\Cau2_OOP_TinhLuongNhanVien\bin\Debug\net10.0\Cau2_OOP_TinhLuongNhanVien.dll
+C:\Users\Admin\LT\C#\Cau2_OOP_TinhLuongNhanVien\Cau2_OOP_TinhLuongNhanVien\bin\Debug\net10.0\Cau2_OOP_TinhLuongNhanVien.pdb
+C:\Users\Admin\LT\C#\Cau2_OOP_TinhLuongNhanVien\Cau2_OOP_TinhLuongNhanVien\obj\Debug\net10.0\Cau2_OOP_TinhLuongNhanVien.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\LT\C#\Cau2_OOP_TinhLuongNhanVien\Cau2_OOP_TinhLuongNhanVien\obj\Debug\net10.0\Cau2_OOP_TinhLuongNhanVien.AssemblyInfoInputs.cache
+C:\Users\Admin\LT\C#\Cau2_OOP_TinhLuongNhanVien\Cau2_OOP_TinhLuongNhanVien\obj\Debug\net10.0\Cau2_OOP_TinhLuongNhanVien.AssemblyInfo.cs
+C:\Users\Admin\LT\C#\Cau2_OOP_TinhLuongNhanVien\Cau2_OOP_TinhLuongNhanVien\obj\Debug\net10.0\Cau2_OOP_TinhLuongNhanVien.csproj.CoreCompileInputs.cache
+C:\Users\Admin\LT\C#\Cau2_OOP_TinhLuongNhanVien\Cau2_OOP_TinhLuongNhanVien\obj\Debug\net10.0\Cau2_OOP_TinhLuongNhanVien.dll
+C:\Users\Admin\LT\C#\Cau2_OOP_TinhLuongNhanVien\Cau2_OOP_TinhLuongNhanVien\obj\Debug\net10.0\refint\Cau2_OOP_TinhLuongNhanVien.dll
+C:\Users\Admin\LT\C#\Cau2_OOP_TinhLuongNhanVien\Cau2_OOP_TinhLuongNhanVien\obj\Debug\net10.0\Cau2_OOP_TinhLuongNhanVien.pdb
+C:\Users\Admin\LT\C#\Cau2_OOP_TinhLuongNhanVien\Cau2_OOP_TinhLuongNhanVien\obj\Debug\net10.0\Cau2_OOP_TinhLuongNhanVien.genruntimeconfig.cache
+C:\Users\Admin\LT\C#\Cau2_OOP_TinhLuongNhanVien\Cau2_OOP_TinhLuongNhanVien\obj\Debug\net10.0\ref\Cau2_OOP_TinhLuongNhanVien.dll
+C:\Users\Admin\LT\C#\Cau2_OOP_TinhLuongNhanVien\Cau2_OOP_TinhLuongNhanVien\obj\Debug\net10.0\Cau2_OOP.FF79F79C.Up2Date
