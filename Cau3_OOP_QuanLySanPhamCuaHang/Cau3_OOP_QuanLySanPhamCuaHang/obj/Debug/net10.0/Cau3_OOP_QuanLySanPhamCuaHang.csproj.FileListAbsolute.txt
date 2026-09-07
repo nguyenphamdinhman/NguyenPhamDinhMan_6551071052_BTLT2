@@ -1,0 +1,15 @@
+C:\Users\Admin\LT\C#\Cau3_OOP_QuanLySanPhamCuaHang\Cau3_OOP_QuanLySanPhamCuaHang\bin\Debug\net10.0\Cau3_OOP_QuanLySanPhamCuaHang.exe
+C:\Users\Admin\LT\C#\Cau3_OOP_QuanLySanPhamCuaHang\Cau3_OOP_QuanLySanPhamCuaHang\bin\Debug\net10.0\Cau3_OOP_QuanLySanPhamCuaHang.deps.json
+C:\Users\Admin\LT\C#\Cau3_OOP_QuanLySanPhamCuaHang\Cau3_OOP_QuanLySanPhamCuaHang\bin\Debug\net10.0\Cau3_OOP_QuanLySanPhamCuaHang.runtimeconfig.json
+C:\Users\Admin\LT\C#\Cau3_OOP_QuanLySanPhamCuaHang\Cau3_OOP_QuanLySanPhamCuaHang\bin\Debug\net10.0\Cau3_OOP_QuanLySanPhamCuaHang.dll
+C:\Users\Admin\LT\C#\Cau3_OOP_QuanLySanPhamCuaHang\Cau3_OOP_QuanLySanPhamCuaHang\bin\Debug\net10.0\Cau3_OOP_QuanLySanPhamCuaHang.pdb
+C:\Users\Admin\LT\C#\Cau3_OOP_QuanLySanPhamCuaHang\Cau3_OOP_QuanLySanPhamCuaHang\obj\Debug\net10.0\Cau3_OOP_QuanLySanPhamCuaHang.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\LT\C#\Cau3_OOP_QuanLySanPhamCuaHang\Cau3_OOP_QuanLySanPhamCuaHang\obj\Debug\net10.0\Cau3_OOP_QuanLySanPhamCuaHang.AssemblyInfoInputs.cache
+C:\Users\Admin\LT\C#\Cau3_OOP_QuanLySanPhamCuaHang\Cau3_OOP_QuanLySanPhamCuaHang\obj\Debug\net10.0\Cau3_OOP_QuanLySanPhamCuaHang.AssemblyInfo.cs
+C:\Users\Admin\LT\C#\Cau3_OOP_QuanLySanPhamCuaHang\Cau3_OOP_QuanLySanPhamCuaHang\obj\Debug\net10.0\Cau3_OOP_QuanLySanPhamCuaHang.csproj.CoreCompileInputs.cache
+C:\Users\Admin\LT\C#\Cau3_OOP_QuanLySanPhamCuaHang\Cau3_OOP_QuanLySanPhamCuaHang\obj\Debug\net10.0\Cau3_OOP_QuanLySanPhamCuaHang.dll
+C:\Users\Admin\LT\C#\Cau3_OOP_QuanLySanPhamCuaHang\Cau3_OOP_QuanLySanPhamCuaHang\obj\Debug\net10.0\refint\Cau3_OOP_QuanLySanPhamCuaHang.dll
+C:\Users\Admin\LT\C#\Cau3_OOP_QuanLySanPhamCuaHang\Cau3_OOP_QuanLySanPhamCuaHang\obj\Debug\net10.0\Cau3_OOP_QuanLySanPhamCuaHang.pdb
+C:\Users\Admin\LT\C#\Cau3_OOP_QuanLySanPhamCuaHang\Cau3_OOP_QuanLySanPhamCuaHang\obj\Debug\net10.0\Cau3_OOP_QuanLySanPhamCuaHang.genruntimeconfig.cache
+C:\Users\Admin\LT\C#\Cau3_OOP_QuanLySanPhamCuaHang\Cau3_OOP_QuanLySanPhamCuaHang\obj\Debug\net10.0\ref\Cau3_OOP_QuanLySanPhamCuaHang.dll
+C:\Users\Admin\LT\C#\Cau3_OOP_QuanLySanPhamCuaHang\Cau3_OOP_QuanLySanPhamCuaHang\obj\Debug\net10.0\Cau3_OOP.30400660.Up2Date

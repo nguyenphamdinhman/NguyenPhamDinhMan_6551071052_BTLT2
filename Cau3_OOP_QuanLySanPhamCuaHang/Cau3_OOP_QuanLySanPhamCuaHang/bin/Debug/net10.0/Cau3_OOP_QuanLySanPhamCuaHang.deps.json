@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Cau3_OOP_QuanLySanPhamCuaHang/1.0.0": {
+        "runtime": {
+          "Cau3_OOP_QuanLySanPhamCuaHang.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cau3_OOP_QuanLySanPhamCuaHang/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
