@@ -1,0 +1,15 @@
+C:\Users\Admin\LT\C#\Cau1_OOP_QuanLySachCoBan\Cau1_OOP_QuanLySachCoBan\bin\Debug\net10.0\Cau1_OOP_QuanLySachCoBan.exe
+C:\Users\Admin\LT\C#\Cau1_OOP_QuanLySachCoBan\Cau1_OOP_QuanLySachCoBan\bin\Debug\net10.0\Cau1_OOP_QuanLySachCoBan.deps.json
+C:\Users\Admin\LT\C#\Cau1_OOP_QuanLySachCoBan\Cau1_OOP_QuanLySachCoBan\bin\Debug\net10.0\Cau1_OOP_QuanLySachCoBan.runtimeconfig.json
+C:\Users\Admin\LT\C#\Cau1_OOP_QuanLySachCoBan\Cau1_OOP_QuanLySachCoBan\bin\Debug\net10.0\Cau1_OOP_QuanLySachCoBan.dll
+C:\Users\Admin\LT\C#\Cau1_OOP_QuanLySachCoBan\Cau1_OOP_QuanLySachCoBan\bin\Debug\net10.0\Cau1_OOP_QuanLySachCoBan.pdb
+C:\Users\Admin\LT\C#\Cau1_OOP_QuanLySachCoBan\Cau1_OOP_QuanLySachCoBan\obj\Debug\net10.0\Cau1_OOP_QuanLySachCoBan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\LT\C#\Cau1_OOP_QuanLySachCoBan\Cau1_OOP_QuanLySachCoBan\obj\Debug\net10.0\Cau1_OOP_QuanLySachCoBan.AssemblyInfoInputs.cache
+C:\Users\Admin\LT\C#\Cau1_OOP_QuanLySachCoBan\Cau1_OOP_QuanLySachCoBan\obj\Debug\net10.0\Cau1_OOP_QuanLySachCoBan.AssemblyInfo.cs
+C:\Users\Admin\LT\C#\Cau1_OOP_QuanLySachCoBan\Cau1_OOP_QuanLySachCoBan\obj\Debug\net10.0\Cau1_OOP_QuanLySachCoBan.csproj.CoreCompileInputs.cache
+C:\Users\Admin\LT\C#\Cau1_OOP_QuanLySachCoBan\Cau1_OOP_QuanLySachCoBan\obj\Debug\net10.0\Cau1_OOP_QuanLySachCoBan.dll
+C:\Users\Admin\LT\C#\Cau1_OOP_QuanLySachCoBan\Cau1_OOP_QuanLySachCoBan\obj\Debug\net10.0\refint\Cau1_OOP_QuanLySachCoBan.dll
+C:\Users\Admin\LT\C#\Cau1_OOP_QuanLySachCoBan\Cau1_OOP_QuanLySachCoBan\obj\Debug\net10.0\Cau1_OOP_QuanLySachCoBan.pdb
+C:\Users\Admin\LT\C#\Cau1_OOP_QuanLySachCoBan\Cau1_OOP_QuanLySachCoBan\obj\Debug\net10.0\Cau1_OOP_QuanLySachCoBan.genruntimeconfig.cache
+C:\Users\Admin\LT\C#\Cau1_OOP_QuanLySachCoBan\Cau1_OOP_QuanLySachCoBan\obj\Debug\net10.0\ref\Cau1_OOP_QuanLySachCoBan.dll
+C:\Users\Admin\LT\C#\Cau1_OOP_QuanLySachCoBan\Cau1_OOP_QuanLySachCoBan\obj\Debug\net10.0\Cau1_OOP.DAA35964.Up2Date
